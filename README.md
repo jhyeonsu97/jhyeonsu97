@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=854&height=200&section=header&text=HyeonsuJo&fontAlignY=40&fontColor=black&fontSize=70)
-<h4 align="center">Hi there 👋<br>
+<h3 align="center">Hi there 👋<br>
 I'm Hyeonsu Jo, a growing developer.🐣<br>
-I want to be a person who gives you new wisdom.✨</h5><br>
+I want to be a person who gives you new wisdom.✨</h3><br>
 
 <h1 align=center>📚 STACKS</h1>
 
